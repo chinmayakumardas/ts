@@ -1,0 +1,14 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 2rem;
+    font-family: 'Inter', sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .responsive-heading {
+    font-size: clamp(1.25rem, 4vw, 2.5rem); /* 20px to 40px */
+    color: #25D366;
+    line-height: 1.2;
+  }
+  

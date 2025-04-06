@@ -1,0 +1,6 @@
+ts install=npm install -g typescript
+ts tsc script.ts
+create tsconfig.json=tsc --init or npx tsc --init  
+created app.js= tsc
+
+to compile continuously= tsc --watch

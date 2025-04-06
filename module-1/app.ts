@@ -21,3 +21,15 @@ enum UserRoles{
 }
 
 console.log(UserRoles.Admin)
+
+
+//5. Any,Unknown,Void,Null,Undefined,Never,Union
+function abcd(){
+    console.log("No return")
+}
+function abcd2():number{
+    return 12;
+}
+function abcd3():String{
+    return "String Return";
+}
